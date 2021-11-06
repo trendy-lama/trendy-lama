@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @intlmanofmstry. I'm a student interested in Economics, Statistics, and Data Science. Currently learning Python and R for school projects
+- 👋 Hi, I’m @trendy-lama. I'm a student interested in Economics, Statistics, and Data Science. Currently learning Python and R for school projects
 and because they are both interesting in general!
 
 <!---
